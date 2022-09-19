@@ -3,8 +3,6 @@ package py.una.server.tcp;
 import java.io.*;
 import java.net.*;
 
-import py.una.entidad.Cliente;
-import py.una.entidad.ClienteJSON;
 
 public class TCPCliente {
     
